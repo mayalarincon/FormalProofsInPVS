@@ -1,10 +1,10 @@
-# FormalProofsInPVS
+# Formal Proofs in PVS
 
 Documentation for the Tutorial "Formal Proofs in PVS" CICM+LSFA 2025
 6th October, 2025
 
-# 14:00-15:00  “PVS in Practice” 
-César A. Muñoz (NASA LaRC Formal Methods)
+# 14:00-15:00  "PVS in Practice" 
+[César A. Muñoz](https://shemesh.larc.nasa.gov/people/cam/) (NASA LaRC Formal Methods)
 
 General introduction to PVS and its specification language through an example.   Mariano is working on a presentation on the PVS logic and theorem prover, using vscode-pvs. "
  
