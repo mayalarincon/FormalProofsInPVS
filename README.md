@@ -14,6 +14,6 @@ General introduction to PVS and its specification language through an example.  
 Presentation on the PVS logic and theorem prover using VSCode-PVS.
 
 # 16:30-18:30 "Hands-on PVS for mathematicians!" 
-[Thaynara Arielly de Lima](https://thaynaradelima.github.io) (Federal University of Goiás) & [Mauricio Ayala-Rincón](https://mayalarioncon.github.io) (University of Brasília)
+[Thaynara Arielly de Lima](https://thaynaradelima.github.io) (Federal University of Goiás) & [Mauricio Ayala-Rincón](https://mayalarincon.github.io) (University of Brasília)
 
 Interactive proof theorem exercise using as a case study Fürstenberger's topological proof on the infinitude of primes"
