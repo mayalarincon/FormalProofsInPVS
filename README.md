@@ -22,5 +22,7 @@ Interactive proof theorem exercise using as a case study Fürstenberger's topolo
 ### Exercises:  [pvs file]()
 
 
-### Instruction to attendants: Install the PVS VS Code extension on your (OS or Linux PC). This is the easy way! Only a limited number of computers will be provided to the attendees during the tutorial. 
-See instructions at [VSCode-PVS](https://marketplace.visualstudio.com/items?itemName=paolomasci.vscode-pvs).
+### Instruction to attendants: Install the PVS VS Code extension on your (OS or Linux PC). This is the easiest way! 
+
+Only a limited number of computers will be provided to the attendees during the tutorial. 
+See installation instructions at [VSCode-PVS](https://marketplace.visualstudio.com/items?itemName=paolomasci.vscode-pvs).
