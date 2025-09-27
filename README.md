@@ -1,6 +1,7 @@
-# Formal Proofs in PVS
+# Formal Proofs in PVS - 
+## Tutorial 18th Conference on Intelligent Computer Mathematics CICM 2025 + 
+## 20th Logical and Semantic Frameworks with Applications LSFA 2025
 
-Documentation for the Tutorial "Formal Proofs in PVS" CICM+LSFA 2025
 6th October, 2025
 
 # 14:00-15:00  "PVS in Practice" 
