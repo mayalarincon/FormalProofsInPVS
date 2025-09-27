@@ -20,3 +20,6 @@ Presentation on the PVS logic and theorem prover using VSCode-PVS.
 Interactive proof theorem exercise using as a case study Fürstenberger's topological proof on the infinitude of primes
 
 ### Exercises:  [pvs file]()
+
+
+### Instruction to attendants: Install the PVS VS Code extension on your (OS or Linux PC). This is the easy way! Only a limited number of computers will be provided to the attendees during the tutorial. 
