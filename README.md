@@ -14,12 +14,13 @@ General introduction to PVS and its specification language through an example.  
 
 Presentation on the PVS logic and theorem prover using VSCode-PVS.
 
-## 16:30-18:30 "[Hands-on PVS for mathematicians!](hands-onPVSforMath)" 
+## 16:30-18:30 "[Hands-on PVS for mathematicians!](hands-onPVSforMath.pdf)" 
 [Thaynara Arielly de Lima](https://thaynaradelima.github.io) (Federal University of Goiás) & [Mauricio Ayala-Rincón](https://mayalarincon.github.io) (University of Brasília)
 
 Interactive proof theorem exercise using as a case study Fürstenberger's topological proof on the infinitude of primes
 
-### Exercises:  [pvs file]()
+### Exercises:  [pvs file](inf_prime_topology.pvs)
+                [x](inf_prime_topology.prf)
 
 
 ### Instruction to attendants: Install the PVS VS Code extension on your (OS or Linux PC). This is the easiest way! 
