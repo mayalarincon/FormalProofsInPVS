@@ -10,7 +10,7 @@
 General introduction to PVS and its specification language through an example.   Mariano is working on a presentation on the PVS logic and theorem prover, using vscode-pvs. "
  
 ## 15:00-16:00 "[PVS logic and theorem prover](PVSLogicAndProver)" 
-[Mariano M. Moscato](https://marianomoscato.github.io/) (Analytics Mechanics Associates)
+[Mariano M. Moscato](https://marianomoscato.github.io/) (Analytic Mechanics Associates Inc.)
 
 Presentation on the PVS logic and theorem prover using VSCode-PVS.
 
