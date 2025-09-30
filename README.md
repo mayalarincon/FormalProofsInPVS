@@ -7,7 +7,7 @@
 ## 14:00-15:00  "[PVS by Example](PVSByExample.pdf)" 
 [César A. Muñoz](https://shemesh.larc.nasa.gov/people/cam/) (NASA LaRC Formal Methods)
 
-General introduction to PVS and its specification language through an example.   Mariano is working on a presentation on the PVS logic and theorem prover, using vscode-pvs. "
+General introduction to PVS and its specification language through an example.   Mariano is working on a presentation on the PVS logic and theorem prover, using vscode-pvs.
  
 ## 15:00-16:00 "[PVS logic and theorem prover](PVSLogicAndProver)" 
 [Mariano M. Moscato](https://marianomoscato.github.io/) (Analytic Mechanics Associates Inc.)
